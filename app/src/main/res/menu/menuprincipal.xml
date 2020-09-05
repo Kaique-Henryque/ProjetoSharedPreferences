@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/cor1"
+        android:title="@string/azul"
+        android:icon="@drawable/ic_azul"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/cor2"
+        android:title="@string/verde"
+        android:icon="@drawable/ic_verde"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/cor3"
+        android:title="@string/cinza"
+        android:icon="@drawable/ic_cinza"
+        app:showAsAction="ifRoom"/>
+</menu>

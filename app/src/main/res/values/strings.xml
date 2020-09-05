@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cores</string>
+    <string name="info">Selecione uma Cor de fundo</string>
+    <string name="azul">Azul</string>
+    <string name="verde">Verde</string>
+    <string name="cinza">Cinza</string>
+</resources>
